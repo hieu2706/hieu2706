@@ -12,6 +12,13 @@
 - 🖥 &nbsp; Linux
 - 💻 &nbsp; C | Java | Shell Scripting
 - 🔧 &nbsp; Git
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=justanoobcoder&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox" alt="Thai Van Hieu Github Stats">
+
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justanoobcoder&layout=compact&text_color=daf7dc&bg_color=222222)
 
 <!-- Thaihieudev -->
 <a href="#" target="_blank">
