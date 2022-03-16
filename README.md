@@ -1,11 +1,11 @@
-## Hi there! I'm Nguyen Hong Hiep (Noah). <img src="https://github.com/justanoobcoder/justanoobcoder/blob/master/handwave.gif" width="25">
+## Hi there! I'm Thai Van Hieu (DEV). <img src="https://github.com/justanoobcoder/justanoobcoder/blob/master/handwave.gif" width="25">
 <img align="right" alt="GIF" src="https://github.com/justanoobcoder/justanoobcoder/blob/master/programming.gif" width="350"/>
 
 ### ℹ️ About Me
 
-- 🎓 &nbsp; I'm currently a software engineering student at FPT University.
+- 🎓 &nbsp; I'm currently a software engineering student at Dev University.
 - 🤔 &nbsp; I'm still learning lots of things and having a plan on building a Linux From Scratch system.
-- ❤️ &nbsp; Coding, watching movies, anime, listening to music, doing stuff on Linux.
+- ❤️ &nbsp; Coding, watching movies, volleybar , listening to music, doing stuff on Linux.
 
 ### 🛠 Tech Stack
 
