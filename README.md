@@ -14,7 +14,7 @@
 - 🔧 &nbsp; Git
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=justanoobcoder&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox" alt="Thai Van Hieu Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaihieu2706&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox" alt="Thai Van Hieu Github Stats">
 
 </br>
 
