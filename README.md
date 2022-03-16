@@ -1,3 +1,18 @@
+## Hi there! I'm Nguyen Hong Hiep (Noah). <img src="https://github.com/justanoobcoder/justanoobcoder/blob/master/handwave.gif" width="25">
+<img align="right" alt="GIF" src="https://github.com/justanoobcoder/justanoobcoder/blob/master/programming.gif" width="350"/>
+
+### ℹ️ About Me
+
+- 🎓 &nbsp; I'm currently a software engineering student at FPT University.
+- 🤔 &nbsp; I'm still learning lots of things and having a plan on building a Linux From Scratch system.
+- ❤️ &nbsp; Coding, watching movies, anime, listening to music, doing stuff on Linux.
+
+### 🛠 Tech Stack
+
+- 🖥 &nbsp; Linux
+- 💻 &nbsp; C | Java | Shell Scripting
+- 🔧 &nbsp; Git
+
 <!-- Thaihieudev -->
 <a href="#" target="_blank">
   <img src="svg/thaihieudev.svg" width="1200" alt="Click to see the source" />
