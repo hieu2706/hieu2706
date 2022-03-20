@@ -98,9 +98,9 @@
   <a href="https://www.youtube.com/channel/UCukQqlkpXNV84wMeFDhOAGw" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thaihieu-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thaihieu-linkedin" />
-  </a>
+  //<a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  // <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thaihieu-linkedin" />
+  //</a>
   <a href="https://www.instagram.com/thaivanhieu2706/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thaihieu-instagram" />
   </a>
