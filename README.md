@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; I'm currently a software engineering student at Dev University.
 - 🤔 &nbsp; I'm still learning lots of things and having a plan on building a Linux From Scratch system.
-- ❤️ &nbsp; Coding, watching movies, volleybar , listening to music, doing stuff on Linux.
+- ❤️ &nbsp; Coding, watching movies, volleyball , listening to music, doing stuff on Linux.
 
 ### 🛠 Tech Stack
 
