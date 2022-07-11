@@ -18,7 +18,7 @@
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justanoobcoder&layout=compact&text_color=daf7dc&bg_color=222222)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieu2706&layout=compact&text_color=daf7dc&bg_color=222222)
 
 <!-- Thaihieudev -->
 <a href="#" target="_blank">
