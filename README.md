@@ -10,7 +10,7 @@
 ### 🛠 Tech Stack
 
 - 🖥 &nbsp; Linux
-- 💻 &nbsp; C | C++ | Java | Python | C# | Neovim | Shell Scripting
+- 💻 &nbsp; C | C++ | Java | JavaScript | Python | C# | Neovim | Shell Scripting
 - 🔧 &nbsp; Git
 <br>
 
