@@ -117,4 +117,23 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 </div>
+<div class="info-box">
+  <h1>QUOTE MACHINE</h1>
+  <p>You can post it in twitter</p>
+</div>
+<div class="quote-box">
+  <div class="quote-text">
+    <i class="fa fa-quote-left"> </i><span id="text"></span>
+  </div>
+  <div class="quote-author">
+    - <span id="author"></span>
+  </div>
+  <div class="buttons">
+    <a class="button" id="tweet-quote" title="Tweet this quote!" target="_blank">
+      <i class="fa fa-twitter"></i>
+    </a>
+    <button class="button" id="new-quote">New quote</button>
+  </div>
+</div>
+<div class="footer"> BY <a href="http://codepen.io/Riteshkumar/">RITESH KUMAR MOHAPATRA</a></div>
 
